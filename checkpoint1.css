@@ -1,0 +1,31 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+body{
+    background-color: rgb(118, 159, 221);
+
+}
+
+h1{
+    font-size: 35px;
+    color: rgb(129, 146, 223);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(37, 20, 112);
+}  
+
+h2{
+    font-size: 30px;
+    background-color: rgb(37, 20, 112);
+}
+
+p{
+    color: rgb(10, 39, 71);
+    font-style: italic;
+    font-size: 1.60em;
+}
+ #mine{
+    color: rgb(15, 15, 160);
+ }
